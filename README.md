@@ -6,6 +6,10 @@ Para que funcione correctamente es necesario agregar un archivo .env con las sig
 - [Openai key]
 - [Giphy key]
 
+## Evento:
+-Al entrar un nuevo mienbro al servidor si tienes activada la opcionde notificar el bot generara una imagen de vienveniada
+![Ejemplo de imagen generada](/ejemplo.jpg)
+
 ## Tiene los siguientes comandos, siempre con "!" delante :
 - animememe Meme de anime cuidado puede tener algun spoiler
 - calcula   Hace el calculo que le pases despues de llamar a calcular
